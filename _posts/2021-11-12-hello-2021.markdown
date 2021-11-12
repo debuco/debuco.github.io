@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "第一篇Blog"
-subtitle:   "Hello World, Hello Blog"
+subtitle:   "\"Hello World, Hello Blog\""
 date:       2021-11-12 20:28:00
 author:     "Neo"
-catalog: false
+catalog: true
 header-style:text
 tags:
     - 生活
