@@ -16,8 +16,8 @@ future: true
 # SNS settings
 
 RSS: false
-weibo_username:     Debuco
-zhihu_username:     Neon
+#weibo_username:     Debuco
+#zhihu_username:     Neon
 github_username:    debuco
 #twitter_username:   huxpro
 #facebook_username:  huxpro
