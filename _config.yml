@@ -99,7 +99,7 @@ netease_comment: false
 # Sidebar settings
 
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Just do something."
+sidebar-about-description: "Just do something <br> java 后端，对数据库、并发比较感兴趣，正在尝试学习更多计算机元知识."
 sidebar-avatar: /img/Aaron.jpg  # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
