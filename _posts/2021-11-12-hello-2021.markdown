@@ -6,7 +6,7 @@ author:     "Neo"
 catalog: true
 header-style: text
 tags:
-    - 生活
+    - 一件小事
 
 
 ---
