@@ -1,13 +1,15 @@
 ---
 layout:     post
-title:      "Todo list？"
+title:      "Why Todo list？"
 date:       2021-11-17 21:43:00
 author:     "Neo"
 catalog: true
 header-style: text
 tags:
-    - 一件小事
+    - 一件小事 
 ---
+
+## 问题的引出
 
 今天下午思维像操作系统进行进程调度一样在以下内容间切换：
 
@@ -15,15 +17,13 @@ tags:
 
 2. 建一个书单
 
-   [地址](https://www.zhihu.com/question/19616722)
-
-   [地址](https://www.zhihu.com/question/23821125)
+   [Alan Kay's Reading List](http://www.squeakland.org/resources/books/readingList.jsp)
 
 3. ~~注册一个域名~~
 
 4. ~~给域名添加https~~
 
-5. 写一篇一件小事的博客
+5. ~~写一篇一件小事的博客~~
 
 6. ~~找markdown目录~~
 
