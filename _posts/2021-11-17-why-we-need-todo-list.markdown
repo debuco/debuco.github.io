@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "[思维和习惯] Why Todo list？"
+title:      "[思维和习惯] Why Todo list"
 date:       2021-11-17 21:43:00
 author:     "Neo"
 catalog: true
