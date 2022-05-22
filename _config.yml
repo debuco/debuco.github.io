@@ -37,7 +37,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
 
-#timezone: CN  
+#timezone: CN
 
 
 
@@ -75,7 +75,7 @@ kramdown:
 
 # Disqus settings
 
-disqus_username: debuco
+# disqus_username: debuco
 
 # Netease settings
 
@@ -85,7 +85,7 @@ netease_comment: false
 
 # Analytics settings
 
-# Baidu Analytics 
+# Baidu Analytics
 
 ba_track_id: af27609a54d70f4ec6a25e7cf320472f
 
