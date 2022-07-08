@@ -31,7 +31,7 @@ github_username:    debuco
 
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -99,7 +99,7 @@ ba_track_id: af27609a54d70f4ec6a25e7cf320472f
 # Sidebar settings
 
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Just do something <br> java 后端，对数据库、高并发感兴趣，正在学习更多计算机元知识."
+sidebar-about-description: "Just do something"
 sidebar-avatar: /img/Aaron.jpg  # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
